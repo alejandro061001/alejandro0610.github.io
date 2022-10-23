@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card-container{
+    background-color:hsl(0, 0%, 100%) ;
+    align-items: center;
+    text-align: center;
+    display: block;
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    height: auto;
+}
+
+.qrcode img{
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 340px ;
+    
+}
+
+.textbig {
+    font-family: 'Outfit', sans-serif;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+.textsmall{
+    padding-left: 5px;
+    padding-right: 5px;    
+    color:hsl(212, 45%, 89%) ;
+    margin-right: 15px;
+    margin-left: 15px;
+    color: hsl(220, 15%, 55%);
+    
+}
+
+.textsmall p{
+    margin-left: 10px ;
+    margin-right: 10px;
+}
+
